@@ -1,6 +1,7 @@
 -hello folks!
 =============
-My name is fanyuansheng,I am a software developer.Have been studying hard<br>
+My name is fanyuansheng,I am a software developer.<br>
+Have been studying hard<br>
 I believe that efforts will yield results!
 <!---
 Fanyuansheng/Fanyuansheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
