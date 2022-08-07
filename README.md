@@ -4,10 +4,7 @@
 * My name is `fanyuansheng`,I am a software developer.🤸‍♀️🤸‍♂️🤸‍♀️🤸‍♂️<br>
 * Have been studying hard.💪<br>
 * I believe that efforts will yield results!🤘<br>  -->
-![](https://raw.githubusercontent.com/Fanyuansheng/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Fanyuansheng/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Fanyuansheng/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Fanyuansheng/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanyuansheng)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/Fanyuansheng/literate-octo-guide/blob/master/generated/languages.svg)
 ![](https://github.com/Fanyuansheng/literate-octo-guide/blob/master/generated/overview.svg)
 <!---
