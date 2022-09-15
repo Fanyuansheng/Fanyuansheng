@@ -18,10 +18,10 @@
 <span>  </span>
 </div>
 
-<!--
+
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=fanyuansheng&theme=minimal" />
-</div>-->
+</div>
 
 <!---
 Fanyuansheng/Fanyuansheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
