@@ -1,6 +1,6 @@
 <!--Hello folks!        
 =============         
-* My name is `fanyuansheng`, I am a software developer.🤸‍♀️🤸‍♂️🤸‍♀️🤸‍♂️<br>             
+* My name is `fanyuansheng`, I am a software developer.🤸‍♀️🤸‍♂️🤸‍♀️🤸‍♂️<br>              
 * Have been studying hard.💪<br>                           
 * I believe that efforts will yield results!🤘<br>  -->       
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanyuansheng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
