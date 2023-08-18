@@ -43,8 +43,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![Fanyuansheng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fanyuansheng&theme=github-compact)](https://github.com/Fanyuansheng/github-readme-activity-graph) -->
-![Fanyuansheng's github activity graph](https://raw.githubusercontent.com/Fanyuansheng/Fanyuansheng/output/github-contribution-grid-snake.svg)
+
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Fanyuansheng's github stats](https://github-readme-stats.vercel.app/api?username=Fanyuansheng&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanyuansheng&theme=radical&layout=compact) |
