@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg) 
+<!-- ![](assets/Bottom_up.svg) 
           
 <!--   my-icons -->                                                                                    
 <p align="center">                                                        
@@ -89,3 +89,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 ![](assets/Bottom_down.svg)
+    -->
